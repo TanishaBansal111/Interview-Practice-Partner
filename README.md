@@ -62,3 +62,28 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
 </p>
 
 
+                     ┌───────────────────────┐
+                     │       User (Client)   │
+                     └─────────────┬─────────┘
+                                   │
+                                   ▼
+                     ┌──────────────────────────┐
+                     │      Next.js Frontend    │
+                     │  (UI + Dashboard + API)  │
+                     └─────────────┬────────────┘
+                                   │
+                   ┌───────────────┼────────────────┐
+                   │               │                │
+                   ▼               ▼                ▼
+        ┌────────────────┐   ┌─────────────┐   ┌────────────────┐
+        │   Vapi AI      │   │  Firebase   │   │    Firestore    │
+        │ (Voice Calls)  │   │  Auth        │   │ (Interview DB) │
+        └───────┬────────┘   └───────┬─────┘   └────────┬────────┘
+                │                    │                   │
+                ▼                    ▼                   ▼
+        ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+        │ Google Gemini │       │ Session Cookie│       │ Feedback Data │
+        │  (Feedback    │       │ Validation    │       │  Storage      │
+        │  Analysis)    │       │               │       │               │
+        └──────────────┘       └──────────────┘       └──────────────┘
+

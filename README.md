@@ -1,92 +1,56 @@
-# PrepWise – AI Mock Interview Simulator
+# PrepWise – AI-Powered Mock Interview Simulator
 
-PrepWise is an intelligent **mock-interview simulation platform** built using **Vapi AI voice agents, Google Gemini, and Firebase**.
-It allows users to:
-
-* Generate customized interviews
-* Talk to an AI interviewer in real-time
-* Receive structured, AI-generated feedback based on communication, technical depth, clarity, and problem-solving skills
+**PrepWise** is an intelligent mock-interview simulator built using **Vapi AI voice agents**, **Google Gemini**, and **Firebase**.
+It helps users practice interviews through real-time **voice conversations**, AI-driven questioning, and detailed performance feedback.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
-### 🔐 **Authentication**
+### 🔐 Authentication
 
-Secure sign-up & sign-in system using:
+Secure **Sign Up** and **Sign In** using Firebase Authentication with server-side session cookies.
 
-* Firebase Authentication
-* Server-side session cookies for protected routes
+### 🎙️ Create Interviews
 
----
-
-### 🎙️ **Create Interviews**
-
-Generate personalized interview sessions using Vapi Voice AI + Gemini based on:
+Easily generate custom interview sessions by selecting:
 
 * Role
-* Job Type
-* Seniority Level
-* Tech Stack
+* Interview type
+* Difficulty level
+* Tech stack
 
----
+Powered by **Vapi Voice AI** + **Google Gemini**.
 
-### 🤖 **AI-Driven Interview**
+### 🤖 Real-Time AI Interview
 
-* Conduct realistic **voice conversations** with an AI interviewer
-* Real-time interaction + automatically generated transcript
+Conduct a realistic **voice-based interview** with an AI agent.
+Includes:
 
----
+* Natural back-and-forth interaction
+* Live transcript generation
 
-### 📝 **Get Feedback from AI**
+### 📝 Smart Feedback Report
 
-After the interview, the system generates detailed performance feedback using **Google Gemini**, covering:
+After the interview, PrepWise generates a detailed performance summary using **Google Gemini**, covering:
 
 * Communication Skills
-* Technical Knowledge
-* Problem Solving
+* Technical Depth
+* Problem-Solving Ability
 * Cultural Fit
 * Confidence & Clarity
 
----
+### 🎨 Modern & Clean UI
 
-### 🎨 **Modern UI/UX**
+Crafted with **Next.js + Tailwind CSS + shadcn/ui** for a smooth, minimal, and responsive design.
 
-Built with:
+### 📊 Personal Dashboard
 
-* **Next.js**
-* **Tailwind CSS**
-* **shadcn/ui**
+Track your interview sessions, view transcripts, review feedback, and analyze your progress over time.
 
-Provides a clean, minimal, and fully responsive design.
+### 📱 Fully Responsive
 
----
-
-### 📊 **Dashboard**
-
-Manage all interviews with ease:
-
-* View summaries
-* Access transcripts
-* Analyze performance trends
-
----
-
-### 📱 **Fully Responsive**
-
-Optimized for:
-
-* Desktop
-* Tablet
-* Mobile
-
----
-
-### 🧩 **Additional Highlights**
-
-* Clean architecture
-* Reusable UI components
-* Server actions for secure backend logic
+Optimized for all devices — mobile, tablet, and desktop.
 
 ---
 
@@ -95,9 +59,8 @@ Optimized for:
 * **Next.js 14 (App Router)**
 * **Firebase Auth & Firestore**
 * **Tailwind CSS**
-* **Vapi AI** (Voice-based interview agent)
-* **Google Gemini** (Structured evaluation & scoring)
-* **shadcn/ui**
+* **Vapi AI** (voice interviews)
+* **Google Gemini** (AI feedback and analysis)
+* **shadcn/ui** (beautiful, accessible components)
 
 ---
-

@@ -1,56 +1,38 @@
-# PrepWise – AI-Powered Mock Interview Simulator
 
-**PrepWise** is an intelligent mock-interview simulator built using **Vapi AI voice agents**, **Google Gemini**, and **Firebase**.
-It helps users practice interviews through real-time **voice conversations**, AI-driven questioning, and detailed performance feedback.
+# 🎧 PrepWise – AI-Powered Mock Interview Simulator
 
----
+PrepWise is an intelligent mock-interview simulator built using Vapi AI voice agents, Google Gemini, and Firebase. It helps users practice interviews through real-time voice conversations, AI-driven questioning, and detailed performance feedback.
 
-## ✨ Features
+## 🚀 Features
 
-### 🔐 Authentication
+* 🔐 **Authentication:** Secure Sign Up and Sign In using Firebase Authentication with server-side session cookies.
 
-Secure **Sign Up** and **Sign In** using Firebase Authentication with server-side session cookies.
+* 🎙️ **Create Interviews:**
+  Easily generate custom interview sessions by selecting:
+  • Role
+  • Interview type
+  • Difficulty level
+  • Tech stack
+  Powered by Vapi Voice AI + Google Gemini.
 
-### 🎙️ Create Interviews
+* 🗣️ **Real-Time AI Interview:**
+  Conduct a realistic voice-based interview with an AI agent. Includes:
+  • Natural back-and-forth interaction
+  • Live transcript generation
 
-Easily generate custom interview sessions by selecting:
+* 📊 **Smart Feedback Report:**
+  After the interview, PrepWise generates a detailed performance summary using Google Gemini, covering:
+  • Communication Skills
+  • Technical Depth
+  • Problem-Solving Ability
+  • Cultural Fit
+  • Confidence & Clarity
 
-* Role
-* Interview type
-* Difficulty level
-* Tech stack
+* 💻 **Modern & Clean UI:** Crafted with Next.js + Tailwind CSS + shadcn/ui for a smooth, minimal, and responsive design.
 
-Powered by **Vapi Voice AI** + **Google Gemini**.
+* 🧭 **Personal Dashboard:** Track your interview sessions, view transcripts, review feedback, and analyze your progress over time.
 
-### 🤖 Real-Time AI Interview
-
-Conduct a realistic **voice-based interview** with an AI agent.
-Includes:
-
-* Natural back-and-forth interaction
-* Live transcript generation
-
-### 📝 Smart Feedback Report
-
-After the interview, PrepWise generates a detailed performance summary using **Google Gemini**, covering:
-
-* Communication Skills
-* Technical Depth
-* Problem-Solving Ability
-* Cultural Fit
-* Confidence & Clarity
-
-### 🎨 Modern & Clean UI
-
-Crafted with **Next.js + Tailwind CSS + shadcn/ui** for a smooth, minimal, and responsive design.
-
-### 📊 Personal Dashboard
-
-Track your interview sessions, view transcripts, review feedback, and analyze your progress over time.
-
-### 📱 Fully Responsive
-
-Optimized for all devices — mobile, tablet, and desktop.
+* 📱 **Fully Responsive:** Optimized for all devices — mobile, tablet, and desktop.
 
 ---
 

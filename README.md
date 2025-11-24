@@ -1,7 +1,4 @@
 
-Ahh **samjha!**
-Tumko **exactly yeh wala style chahiye** (jaise screenshot me vertical bullets aa rahe hain) — but GitHub README me woh **horizontal aa rahe hain**, right?
-
 # 🎧 PrepWise – AI-Powered Mock Interview Simulator
 
 PrepWise is an intelligent mock-interview simulator built using Vapi AI voice agents, Google Gemini, and Firebase. It helps users practice interviews through real-time voice conversations, AI-driven questioning, and detailed performance feedback.

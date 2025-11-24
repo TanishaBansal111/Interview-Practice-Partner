@@ -1,7 +1,7 @@
 
 # 🎧 PrepWise – AI-Powered Mock Interview Simulator
 
-PrepWise is an intelligent mock-interview simulator built using Vapi AI voice agents, Google Gemini, and Firebase. It helps users practice interviews through real-time voice conversations, AI-driven questioning, and detailed performance feedback.
+PrepWise is an intelligent mock-interview simulator built using Vapi AI voice agents, Google Gemini, and Firebase. It helps users practice interviews through real-time voice conversations, follow-up questions, and detailed performance feedback.
 
 ## 🚀 Features
 
@@ -42,6 +42,7 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
 * 📱 **Fully Responsive:**
   Optimized for all devices — mobile, tablet, and desktop.
 
+  
 ## 🛠️ Tech Stack
 
 * **Next.js 14 (App Router)**
@@ -51,4 +52,14 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
 * **Google Gemini** (AI feedback and analysis)
 * **shadcn/ui** (beautiful, accessible components)
 
----
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vapi](https://img.shields.io/badge/Vapi_AI-5A4FCF?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+
+

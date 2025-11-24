@@ -42,9 +42,6 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
 * 📱 **Fully Responsive:**
   Optimized for all devices — mobile, tablet, and desktop.
 
-
----
-
 ## 🛠️ Tech Stack
 
 * **Next.js 14 (App Router)**

@@ -15,18 +15,9 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
   * Interview type
   * Difficulty level
   * Tech stack
- 
+    
   Powered by Vapi Voice AI + Google Gemini.
-
-* 🎙️ **Create Interviews:**
-  Easily generate custom interview sessions by selecting:
-
-  * Role
-  * Interview type
-  * Difficulty level
-  * Tech stack
-    Powered by Vapi Voice AI + Google Gemini.
-
+  
 * 🗣️ **Real-Time AI Interview:**
   Conduct a realistic voice-based interview with an AI agent. Includes:
 

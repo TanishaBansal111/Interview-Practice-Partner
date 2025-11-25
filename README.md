@@ -324,7 +324,7 @@ This flow shows how users securely authenticate:
 
 ## 🔧 **Project Setup (Local Development Guide)**
 
-Follow these steps to run **Interview Practice Partner (PrepWise)** locally on your machine.
+Follow these steps to run Interview Practice Partner (PrepWise) locally on your machine.
 
 ### ✅ **Prerequisites**
 
@@ -334,14 +334,14 @@ Ensure the following tools are installed:
 * **Node.js** (v18+ recommended)
 * **npm** (comes with Node)
 
-#### 📥 **1. Clone the Repository**
+### 📥 **1. Clone the Repository**
 
 ```sh
 git clone https://github.com/TanishaBansal111/Interview-Practice-Partner.git
 cd Interview-Practice-Partner
 ```
 
-#### 📦 **2. Install Dependencies**
+### 📦 **2. Install Dependencies**
 
 ```sh
 npm install
@@ -349,7 +349,7 @@ npm install
 
 This will install all required packages for Next.js, Firebase, Vapi, Gemini, and UI components.
 
-#### 🔐 **3. Set Up Environment Variables**
+### 🔐 **3. Set Up Environment Variables**
 
 Create a file named **`.env.local`** at the root of the project.
 
@@ -375,7 +375,7 @@ FIREBASE_CLIENT_EMAIL=
 FIREBASE_PRIVATE_KEY=
 ```
 
-#### ▶️ **4. Run the Development Server**
+### ▶️ **4. Run the Development Server**
 
 ```sh
 npm run dev

@@ -288,7 +288,7 @@ The PrepWise system has two main architectural flows:
 ### **📌 1. Interview Generation Workflow (Vapi Flow)**
 
 <p align="center" style="margin: 30px 0;">
-  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c674bd9c-ef6f-4368-86bd-5175fe4d8ac7" />
+  <img width="1400" height="450" alt="image" src="https://github.com/user-attachments/assets/c674bd9c-ef6f-4368-86bd-5175fe4d8ac7" />
 
 </p>
 

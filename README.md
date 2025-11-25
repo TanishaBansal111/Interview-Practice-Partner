@@ -322,7 +322,7 @@ This flow shows how users securely authenticate:
 * All future requests use this session automatically
   
 
-## 🔧 **Project Setup (Local Development Guide)**
+## 🔧 **Project Setup**
 
 Follow these steps to run Interview Practice Partner (PrepWise) locally on your machine.
 

@@ -288,7 +288,8 @@ The PrepWise system has two main architectural flows:
 ### **📌 1. Interview Generation Workflow (Vapi Flow)**
 
 <p align="center" style="margin: 30px 0;">
-  <img width="850" src="/mnt/data/80c64eb2-1eff-494b-8007-430a48ee8719.png" />
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/c674bd9c-ef6f-4368-86bd-5175fe4d8ac7" />
+
 </p>
 
 **🔍  Explanation**
@@ -307,7 +308,8 @@ The backend generates interview questions using **Gemini** and stores them in Fi
 ### **📌 2. Authentication & Session Flow (Firebase Auth)**
 
 <p align="center" style="margin: 30px 0;">
-  <img width="850" src="/mnt/data/9123cc60-eb33-45bc-a79f-80e43ec575bb.png" />
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/db57a019-e8e1-46da-be80-8b88f51dcde4" />
+
 </p>
 
  **🔍  Explanation**

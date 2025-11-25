@@ -234,8 +234,11 @@ PrepWise supports four user personas, each producing unique feedback styles:
 🟡 **Persona 3 — Chatty User**
 
 📌 This persona talks too much and often goes off-topic .
+<p align="center" style="margin: 30px 0;">
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d3db043d-8755-4e77-8c6e-5b27fc9fd8b0" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1fd70456-2a82-4e27-b98c-fb1bf99106ab" /></p>
 
-👉 Insert Chatty User screenshot here:
+
 
 🔍 **Behaviour**
 
@@ -259,7 +262,10 @@ PrepWise supports four user personas, each producing unique feedback styles:
 
 📌 This persona gives irrelevant, contradictory, or nonsensical answers that push the AI outside normal conversation boundaries.
 
-👉 Insert Edge-Case User screenshot here:
+<p align="center" style="margin: 30px 0;"> <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/941d37ca-69b5-4d75-823c-e156d6880d8e" />
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/783eb840-cd52-4366-ae99-980d6a55d9d5" />
+
+</p>
 
 🔍 **Behaviour**
 

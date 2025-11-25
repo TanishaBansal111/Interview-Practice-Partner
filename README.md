@@ -66,7 +66,7 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
 
 ### ⭐ 1. User Creates an Account (Sign Up Flow)
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4cfa2963-48d9-4b74-a336-9ebf4322746e" />
+<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/4cfa2963-48d9-4b74-a336-9ebf4322746e" />
 
 The workflow begins when a new user opens PrepWise and creates an account by entering:
 

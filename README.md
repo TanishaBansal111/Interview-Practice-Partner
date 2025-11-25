@@ -176,7 +176,7 @@ The feedback dynamically adapts based on **how the user behaved during the inter
 
 PrepWise supports four user personas, each producing unique feedback styles:
 
-🟣 **Persona 1 — Efficient User**
+### 🟣 Persona 1 — Efficient User
 
 📌 This persona gives quick and structured answers.
 
@@ -203,7 +203,7 @@ PrepWise supports four user personas, each producing unique feedback styles:
 
 * Suggested improvement: add more examples or elaboration
 
-🔵 **Persona 2 — Confused User**
+### 🔵 Persona 2 — Confused User
 
 📌 This persona is unsure and asks clarifying questions repeatedly.
 
@@ -211,7 +211,6 @@ PrepWise supports four user personas, each producing unique feedback styles:
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/4e014152-4d3f-4319-9a13-0748c31b4b6c" />
 
 </p>
-
 
 🔍 **Behaviour**
 
@@ -231,14 +230,12 @@ PrepWise supports four user personas, each producing unique feedback styles:
 
 * Recommended to strengthen core basics
 
-🟡 **Persona 3 — Chatty User**
+### 🟡 Persona 3 — Chatty User
 
 📌 This persona talks too much and often goes off-topic .
 <p align="center" style="margin: 30px 0;">
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d3db043d-8755-4e77-8c6e-5b27fc9fd8b0" />
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1fd70456-2a82-4e27-b98c-fb1bf99106ab" /></p>
-
-
 
 🔍 **Behaviour**
 
@@ -258,7 +255,7 @@ PrepWise supports four user personas, each producing unique feedback styles:
 
 * Shows enthusiasm but lacks precision
 
-🔴 **Persona 4 — Edge-Case User**
+### 🔴 Persona 4 — Edge-Case User
 
 📌 This persona gives irrelevant, contradictory, or nonsensical answers that push the AI outside normal conversation boundaries.
 

@@ -281,4 +281,40 @@ PrepWise supports four user personas, each producing unique feedback styles:
 * Encourages sticking to question context
 
 
+## 🏗️ **System Architecture**
 
+The PrepWise system has two main architectural flows:
+
+### **📌 1. Interview Generation Workflow (Vapi Flow)**
+
+<p align="center" style="margin: 30px 0;">
+  <img width="850" src="/mnt/data/80c64eb2-1eff-494b-8007-430a48ee8719.png" />
+</p>
+
+**🔍  Explanation**
+
+This flow represents **Call 1**, where the AI interviewer collects:
+
+* Role
+* Interview Type
+* Difficulty
+* Tech Stack
+* Number of Questions
+
+Vapi extracts these values and sends them to the backend.
+The backend generates interview questions using **Gemini** and stores them in Firestore.
+
+### **📌 2. Authentication & Session Flow (Firebase Auth)**
+
+<p align="center" style="margin: 30px 0;">
+  <img width="850" src="/mnt/data/9123cc60-eb33-45bc-a79f-80e43ec575bb.png" />
+</p>
+
+ **🔍  Explanation**
+
+This flow shows how users securely authenticate:
+
+* User signs in
+* Firebase verifies credentials
+* Backend creates a secure session cookie
+* All future requests use this session automatically

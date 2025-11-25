@@ -320,7 +320,39 @@ This flow shows how users securely authenticate:
 * Firebase verifies credentials
 * Backend creates a secure session cookie
 * All future requests use this session automatically
-  
+
+## 🧠 Design Decisions & Reasoning
+
+### 1. Two-Call Architecture (Call 1: Generation, Call 2: Interview)
+We separated the flow into two calls to ensure:
+- More control over question generation
+- Faster interview start time
+- Ability to regenerate interviews without restarting the call
+
+### 2. Vapi for Voice Interaction
+Chosen because:
+- Real-time transcription
+- Natural back-and-forth voice conversation
+- Easy integration with workflows
+
+### 3. Google Gemini for Evaluation
+Gemini provides:
+- Strong reasoning ability
+- Persona-aware feedback generation
+- Accurate scoring for multiple categories
+
+### 4. Firebase Auth for Session Security
+We used session cookies because:
+- They are safer than client tokens
+- Prevent token theft
+- Simplify server-side authentication
+
+### 5. Firestore as Database
+Firestore is ideal because:
+- Real-time updates
+- Simpler schema for interview records
+- Easy integration with Firebase Auth
+
 
 ## 🔧 **Project Setup**
 

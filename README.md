@@ -61,11 +61,6 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" />
 </p>
 
-Here is your **APPLICATION WORKFLOW (USER FLOW)** section rewritten in **perfect README markdown**, clean spacing, emoji headings, and ready to **copy–paste directly** into GitHub.
-
-No formatting issues. No inline problems. 100% clean.
-
----
 
 ## 🔄 APPLICATION WORKFLOW (USER FLOW)
 
@@ -121,9 +116,7 @@ During this call, the AI interviewer asks:
 The call ends by saying:
 **“Your interview has been generated. You can now take the interview from your dashboard.”**
 
----
-
-## ⭐ 4. Dashboard Shows the Generated Interview Cards
+### ⭐ 4. Dashboard Shows the Generated Interview Cards
 
 📷 *Insert Interview Cards Screenshot Here*
 
@@ -141,9 +134,7 @@ Each interview card displays:
 
 The user can now select an interview to begin.
 
----
-
-## ⭐ 5. User Takes the Real Interview (Call 2)
+### ⭐ 5. User Takes the Real Interview (Call 2)
 
 📷 *Insert Real Interview Call Screenshot Here*
 
@@ -168,20 +159,8 @@ The interview continues until all questions are completed.
 Finally, the AI says:
 **“Thank you for the interview. Your feedback will be generated shortly.”**
 
----
-
-## ⭐ 6. User Receives Detailed AI Feedback (Persona-Aware Feedback)
+### ⭐ 6. User Receives Detailed AI Feedback (Persona-Aware Feedback)
 
 📷 *Insert Feedback Page Screenshot Here*
 
----
-
-If you want, I can also write:
-
-✅ A summary section
-✅ “How the backend works”
-✅ “How Vapi + Gemini integrate”
-✅ Contribution / Installation sections
-
-Just tell me!
 

@@ -83,7 +83,8 @@ The workflow begins when a new user opens PrepWise and creates an account by ent
 
 ### ⭐ 2. User Lands on the Home Page
 
-<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/55ca46b1-82f8-4ec2-936a-d5241599ea5e" /></p>
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/15abee28-6fd7-47b1-8f30-8d4adece3df7" />
+</p>
 
 
 Once authenticated, the user sees the Home Page, which shows:

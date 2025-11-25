@@ -61,29 +61,127 @@ PrepWise is an intelligent mock-interview simulator built using Vapi AI voice ag
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge" />
 </p>
 
+Here is your **APPLICATION WORKFLOW (USER FLOW)** section rewritten in **perfect README markdown**, clean spacing, emoji headings, and ready to **copy–paste directly** into GitHub.
 
-                     ┌───────────────────────┐
-                     │       User (Client)   │
-                     └─────────────┬─────────┘
-                                   │
-                                   ▼
-                     ┌──────────────────────────┐
-                     │      Next.js Frontend    │
-                     │  (UI + Dashboard + API)  │
-                     └─────────────┬────────────┘
-                                   │
-                   ┌───────────────┼────────────────┐
-                   │               │                │
-                   ▼               ▼                ▼
-        ┌────────────────┐   ┌─────────────┐   ┌────────────────┐
-        │   Vapi AI      │   │  Firebase   │   │    Firestore    │
-        │ (Voice Calls)  │   │  Auth        │   │ (Interview DB) │
-        └───────┬────────┘   └───────┬─────┘   └────────┬────────┘
-                │                    │                   │
-                ▼                    ▼                   ▼
-        ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
-        │ Google Gemini │       │ Session Cookie│       │ Feedback Data │
-        │  (Feedback    │       │ Validation    │       │  Storage      │
-        │  Analysis)    │       │               │       │               │
-        └──────────────┘       └──────────────┘       └──────────────┘
+No formatting issues. No inline problems. 100% clean.
+
+---
+
+## 🔄 APPLICATION WORKFLOW (USER FLOW)
+
+### ⭐ 1. User Creates an Account (Sign Up Flow)
+
+📷 *Insert Signup Page Screenshot Here*
+
+The workflow begins when a new user opens PrepWise and creates an account by entering:
+
+* Name
+* Email
+* Password
+
+✔ Firebase Authentication securely registers the user
+✔ On successful signup, the app shows a success toast
+✔ The user is immediately redirected to the Home Dashboard
+
+### ⭐ 2. User Lands on the Home Page
+
+📷 *Insert Home Page Screenshot Here*
+
+Once authenticated, the user sees the Home Page, which shows:
+
+* A welcome header
+* “Start an Interview” button
+* Sections for **Your Interviews** and **Take Interviews**
+* Clean UI with available interview categories (Full Stack, Frontend, Mobile, etc.)
+
+From here, the user can choose to:
+
+* Generate a new interview
+* Start an existing interview
+* View older results
+
+### ⭐ 3. User Starts Interview Generation (Call 1)
+
+📷 *Insert Interview Generation Call Screenshot Here*
+
+When the user clicks **Start an Interview**, PrepWise triggers **Call 1**, whose purpose is only to *generate interview questions*.
+
+During this call, the AI interviewer asks:
+
+* Role (e.g., Full Stack Developer)
+* Interview Type (Technical, Behavioral, Mixed)
+* Difficulty Level
+* Tech Stack
+* Number of Questions
+
+✔ Vapi extracts these values
+✔ Sends them to backend
+✔ Backend generates a structured list of interview questions using **Google Gemini**
+
+The call ends by saying:
+**“Your interview has been generated. You can now take the interview from your dashboard.”**
+
+---
+
+## ⭐ 4. Dashboard Shows the Generated Interview Cards
+
+📷 *Insert Interview Cards Screenshot Here*
+
+After Call 1 completes, the user is redirected to the dashboard where newly created interviews appear under:
+
+* **Take Interviews** section
+
+Each interview card displays:
+
+* Interview title (e.g., *Full Stack Interview*)
+* Date of generation
+* Difficulty
+* Score (after completion)
+* **View Interview** button
+
+The user can now select an interview to begin.
+
+---
+
+## ⭐ 5. User Takes the Real Interview (Call 2)
+
+📷 *Insert Real Interview Call Screenshot Here*
+
+When the user clicks **View Interview → Start Interview**, PrepWise begins **Call 2**, which is the *actual technical interview*.
+
+In this phase:
+
+* AI interviewer asks the generated technical questions
+* User answers via real-time voice conversation
+* Vapi transcribes user responses
+* Gemini analyzes the answers
+
+The system evaluates:
+
+* Communication
+* Technical Strength
+* Problem-Solving
+* Clarity
+* Cultural Fit
+
+The interview continues until all questions are completed.
+Finally, the AI says:
+**“Thank you for the interview. Your feedback will be generated shortly.”**
+
+---
+
+## ⭐ 6. User Receives Detailed AI Feedback (Persona-Aware Feedback)
+
+📷 *Insert Feedback Page Screenshot Here*
+
+---
+
+If you want, I can also write:
+
+✅ A summary section
+✅ “How the backend works”
+✅ “How Vapi + Gemini integrate”
+✅ Contribution / Installation sections
+
+Just tell me!
 

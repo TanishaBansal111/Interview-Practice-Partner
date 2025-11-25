@@ -320,3 +320,68 @@ This flow shows how users securely authenticate:
 * Firebase verifies credentials
 * Backend creates a secure session cookie
 * All future requests use this session automatically
+  
+
+## 🔧 **Project Setup (Local Development Guide)**
+
+Follow these steps to run **Interview Practice Partner (PrepWise)** locally on your machine.
+
+### ✅ **Prerequisites**
+
+Ensure the following tools are installed:
+
+* **Git**
+* **Node.js** (v18+ recommended)
+* **npm** (comes with Node)
+
+#### 📥 **1. Clone the Repository**
+
+```sh
+git clone https://github.com/TanishaBansal111/Interview-Practice-Partner.git
+cd Interview-Practice-Partner
+```
+
+#### 📦 **2. Install Dependencies**
+
+```sh
+npm install
+```
+
+This will install all required packages for Next.js, Firebase, Vapi, Gemini, and UI components.
+
+#### 🔐 **3. Set Up Environment Variables**
+
+Create a file named **`.env.local`** at the root of the project.
+
+Add the following values:
+
+```
+NEXT_PUBLIC_VAPI_WEB_TOKEN=
+NEXT_PUBLIC_VAPI_WORKFLOW_ID=
+
+GOOGLE_GENERATIVE_AI_API_KEY=
+
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
+NEXT_PUBLIC_FIREBASE_APP_ID=
+
+FIREBASE_PROJECT_ID=
+FIREBASE_CLIENT_EMAIL=
+FIREBASE_PRIVATE_KEY=
+```
+
+#### ▶️ **4. Run the Development Server**
+
+```sh
+npm run dev
+```
+
+Your app will be available at:
+
+👉 **[http://localhost:3000](http://localhost:3000)**
+

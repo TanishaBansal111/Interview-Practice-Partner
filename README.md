@@ -83,7 +83,7 @@ The workflow begins when a new user opens PrepWise and creates an account by ent
 
 ### ⭐ 2. User Lands on the Home Page
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/55ca46b1-82f8-4ec2-936a-d5241599ea5e" />
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/55ca46b1-82f8-4ec2-936a-d5241599ea5e" /></p>
 
 
 Once authenticated, the user sees the Home Page, which shows:
@@ -101,7 +101,7 @@ From here, the user can choose to:
 
 ### ⭐ 3. User Starts Interview Generation (Call 1)
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/84b0a45e-52ec-4cb4-bd61-d3bd9f0b709c" />
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/84b0a45e-52ec-4cb4-bd61-d3bd9f0b709c" /></p>
 
 
 When the user clicks **Start an Interview**, PrepWise triggers **Call 1**, whose purpose is only to *generate interview questions*.
@@ -125,7 +125,7 @@ The call ends by saying:
 
 ### ⭐ 4. Dashboard Shows the Generated Interview Cards
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/75ba6502-7145-40c5-9bac-4530988689ab" />
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/75ba6502-7145-40c5-9bac-4530988689ab" /></p>
 
 
 After Call 1 completes, the user is redirected to the dashboard where newly created interviews appear under:
@@ -144,7 +144,7 @@ The user can now select an interview to begin.
 
 ### ⭐ 5. User Takes the Real Interview (Call 2)
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/12581f45-d2b2-4ad0-9b5f-6376eda2455e" />
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/12581f45-d2b2-4ad0-9b5f-6376eda2455e" /></p>
 
 
 When the user clicks **View Interview → Start Interview**, PrepWise begins **Call 2**, which is the *actual technical interview*.

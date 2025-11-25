@@ -171,6 +171,111 @@ Finally, the AI says:
 
 ### ⭐ 6. User Receives Detailed AI Feedback (Persona-Aware Feedback)
 
-📷 *Insert Feedback Page Screenshot Here*
+Once the interview ends, PrepWise generates a personalized AI-driven feedback report using Google Gemini.
+The feedback dynamically adapts based on how the user behaved during the interview.
+
+PrepWise supports four user personas, each producing unique feedback styles.
+
+🟣 Persona 1 — Efficient User
+
+📌 This persona gives quick and structured answers.
+
+<p align="center" style="margin: 30px 0;"> <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/1cf43f01-b9d6-4407-a2bd-50472240cdb3" />
+  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ac93d6a4-e425-488d-87f3-dc38fc129df3" />
+
+</p>
+
+🔍 Behaviour
+
+* Gives short, crisp, highly relevant answers
+
+* Doesn’t waste time; goes directly to the point
+
+* Uses structured explanations
+
+📝 Feedback Highlights
+
+* Strong communication clarity
+
+* Good technical depth
+
+* Good confidence
+
+* Suggested improvement: add more examples or elaboration
+
+🔵 Persona 2 — Confused User
+
+📌 This persona is unsure and asks clarifying questions repeatedly.
+
+<p align="center" style="margin: 30px 0;"><img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d9079000-1d2e-44ab-8f79-98eb6b07690d" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/607e05ec-8991-4b7e-afa3-49a0874fb4b6" />
+</p>
+
+
+🔍 Behaviour
+
+* Frequently asks “Sorry, what does that mean?”
+
+* Repeats the question instead of answering
+
+* Low clarity, uncertain tone
+
+📝 Feedback Highlights
+
+* Lower communication & clarity score
+
+* Encouragement to organize thoughts
+
+* Suggestion to use the STAR method
+
+* Recommended to strengthen core basics
+
+🟡 Persona 3 — Chatty User
+
+📌 This persona talks too much and often goes off-topic .
+
+👉 Insert Chatty User screenshot here:
+
+🔍 Behaviour
+
+* Gives very long answers
+
+* Goes off-topic frequently
+
+* Adds unnecessary stories
+
+📝 Feedback Highlights
+
+* Needs more concise responses
+
+* Should focus on structured answers
+
+* Encouraged to reduce irrelevant details
+
+* Shows enthusiasm but lacks precision
+
+🔴 Persona 4 — Edge-Case User
+(Nonsense Inputs, Invalid Answers)
+
+📌 This persona gives irrelevant, contradictory, or nonsensical answers that push the AI outside normal conversation boundaries.
+
+👉 Insert Edge-Case User screenshot here:
+
+🔍 Behaviour
+
+* Gives unrelated / incomplete responses
+
+* Sometimes intentionally gives wrong patterns
+
+* Tests system limits
+
+📝 Feedback Highlights
+
+* Feedback focuses on correctness
+
+* Suggests answering with real examples
+
+* Encourages sticking to question context
+
 
 

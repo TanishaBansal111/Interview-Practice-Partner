@@ -111,9 +111,7 @@ During this call, the AI interviewer asks:
 
 ✔ Vapi extracts these values
 
-
 ✔ Sends them to backend
-
 
 ✔ Backend generates a structured list of interview questions using **Google Gemini**
 
